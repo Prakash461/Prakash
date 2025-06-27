@@ -16,4 +16,4 @@ I'm a passionate **Python Full Stack Developer** experienced in:
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - Email: your.email@example.com
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.”
